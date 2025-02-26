@@ -1,4 +1,3 @@
-# -DeepSeek-R1-Distill-Qwen-1.5B-PRUNING_Depth_Last_Layers
 # Depth Pruning Effects on Transformer Models and an experiment on DeepSeek-R1-Distill-Qwen-1.5B
 
 ## Overview
