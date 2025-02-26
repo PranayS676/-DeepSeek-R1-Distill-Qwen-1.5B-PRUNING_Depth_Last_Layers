@@ -38,6 +38,7 @@ This project evaluates how depth pruning affects performance across tasks with v
 - **Extract Insights:** Understand the trade-offs between reduced model depth (and thus efficiency) and the ability to perform complex reasoning.
 
 ## Experiments & Results
+![Pruning Impact Graph](https://github.com/PranayS676/-DeepSeek-R1-Distill-Qwen-1.5B-PRUNING_Depth_Last_Layers/blob/main/graph2.png)
 
 ### Llama-3.2 Model
 - **BoolQ:**
