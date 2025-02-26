@@ -1,5 +1,6 @@
 # Depth Pruning Effects on Transformer Models and an experiment on DeepSeek-R1-Distill-Qwen-1.5B
 
+![Pruning Impact image](https://github.com/PranayS676/-DeepSeek-R1-Distill-Qwen-1.5B-PRUNING_Depth_Last_Layers/blob/main/pruning.svg)
 ## Overview
 This project investigates the impact of depth pruning on transformer-based language models by comparing performance metrics before and after pruning. The analysis focuses **DeepSeek-R1-Distill-Qwen-1.5B**. Depth pruning, which involves removing the deepest layers of a model, is explored as a means to reduce computational overhead while assessing the trade-offs in task performance.
 
